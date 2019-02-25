@@ -12,7 +12,3 @@ This is a service recipe for the [Franz](https://meetfranz.com/) cross-platform 
 3. git clone https://github.com/mryserb/franz-outlook-bedag.git
 4. Restart or Reload Franz
 5. Enjoy!
-
-## License
-
-The MIT license.
