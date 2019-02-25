@@ -5,7 +5,6 @@
     "description": "Outlook Bedag",
     "main": "index.js",
     "author": "Marcel Ryser <marcel.ryser@bedag.ch>",
-    "license": "MIT",
     "config": {
         "serviceURL": "https://mail.bedag.ch/owa"
     }
